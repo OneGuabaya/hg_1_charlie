@@ -1,7 +1,7 @@
-#hg_1_Charlie
+# hg_1_Charlie
 Resume: Grupal Hack 1 - GitHub Practice
 
-#PARTICIPANTES
+# PARTICIPANTES
 Alfa - Miguel Petruzella - Caracas
 
 Bravo - Emmanuel Plaza - Caracas
